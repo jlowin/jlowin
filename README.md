@@ -22,4 +22,3 @@ I love building tools that make developers' lives easier. You might know me from
 - 💻 [jlowin.dev](https://www.jlowin.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jlowin/)
 - 🐦 [X](https://x.com/jlowin)
-- 🦋 [Bluesky](https://bsky.app/profile/jlowin.bsky.social)
