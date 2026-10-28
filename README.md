@@ -6,7 +6,7 @@
 
 I'm Jeremiah.
 
-I love building tools that make developers' lives easier. You might know me from [FastMCP](https://github.com/jlowin/fastmcp), the standard Python framework for working with the Model Context Protocol, or [Prefect](https://github.com/PrefectHQ/prefect), the workflow engine used by thousands of data teams worldwide.
+I love building tools that make developers' lives easier. You might know me from [FastMCP](https://github.com/jlowin/fastmcp), the standard Python framework for working with the Model Context Protocol, or [Prefect](https://github.com/PrefectHQ/prefect), the workflow engine used by thousands of data teams worldwide. More recently, we welcomed [Dagster](https://github.com/dagster-io/dagster) to the Prefect portfolio, uniting the two leading modern data platforms under one roof and setting up the next generation of automation.
 
 ## `$ whoami`
 
